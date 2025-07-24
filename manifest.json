@@ -1,0 +1,13 @@
+{
+  "name": "보물창고",
+  "short_name": "보물창고",
+  "share_target": {
+    "action": "/",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text", 
+      "url": "url"
+    }
+  }
+}
